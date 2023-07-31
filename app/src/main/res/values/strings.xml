@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">UIComponent-LatihanP4</string>
+    <string name="titleJudul">Buat Biodatamu</string>
+    <string name="imagepilih">imagePilih</string>
+    <string name="nama">Nama :</string>
+    <string name="panggilan">Panggilan :</string>
+    <string name="umur">Umur :</string>
+    <string name="golongan_darah">Golongan Darah :</string>
+    <string name="golA">A</string>
+    <string name="golB">B</string>
+    <string name="golAB">AB</string>
+    <string name="golO">O</string>
+    <string name="buttoncancel">buttonCancel</string>
+    <string name="buttonyes">buttonYes</string>
+    <string name="favorit">Favorit :</string>
+    <string name="bakso">Bakso</string>
+    <string name="sate">Sate</string>
+    <string name="seblak">Seblak</string>
+    <string name="lainnya">Lainnya</string>
+    <string name="gender">Gender :</string>
+    <string name="pria">PRIA</string>
+    <string name="wanita">WANITA</string>
+</resources>
